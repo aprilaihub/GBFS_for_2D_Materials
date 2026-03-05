@@ -26,26 +26,6 @@ The resulting models are **fully interpretable**, using:
 - Feature importance from gradient boosting
 - **SHapley Additive exPlanations (SHAP)** for global and local interpretation
 
-### Model Performance
-
-| Task | Metric | Score |
-|-----|------|------|
-| Stability classification | F1-score | **0.832** |
-| Stability classification | Accuracy | **89.7%** |
-| Metallicity classification | F1-score | **0.875** |
-| Metallicity classification | Accuracy | **88.6%** |
-| Band gap regression | R² | **0.865** |
-| Band gap regression | MAE | **0.353 eV** |
-| Band gap regression | RMSE | **0.516 eV** |
-
-The band gap model was also evaluated on an **external literature dataset of 177 2D materials**, yielding:
-
-- **R²:** 0.225  
-- **MAE:** 0.794 eV  
-- **RMSE:** 1.037 eV  
-
-These results demonstrate that **GBFS enables the construction of interpretable surrogate models suitable for high-throughput screening of 2D materials**.
-
 ---
 
 # Repository Workflow
@@ -64,13 +44,13 @@ Each stage is implemented as a Jupyter notebook.
 
 Run the notebook:
 
-pkl/combine_features_files.ipynb
+- `pkl/combine_features_files.ipynb`
 
 This notebook merges individual feature files into a **single combined dataset** used for the GBFS workflow.
 
 The output is a features .pkl file:
 
-2d_combined_features.pkl
+`2d_combined_features.pkl`
 
 
 This file will serve as the input to the modelling pipeline.
@@ -81,7 +61,7 @@ This file will serve as the input to the modelling pipeline.
 
 Run the notebook:
 
-run_all_scripts.ipynb
+- `run_all_scripts.ipynb`
 
 This notebook performs the core modelling workflow and **implements the Gradient-Boosted Feature Selection (GBFS) workflow**.
 The flags and configurations are listed below.
@@ -111,7 +91,7 @@ The selected feature subset is then used for final model training.
 # Step 3 — Compare to experimental values in pkl/expt_band_gap folder
 
 Run the notebook:
-process_expt_dft_gbfs.ipynb
+- `process_expt_dft_gbfs.ipynb`
 
 This notebook performs:
 
@@ -125,11 +105,11 @@ This notebook performs:
 # Step 4 — SHAP Analysis and Re-plotting for Publication
 
 Run the notebooks:
-process_feature_statistics.ipynb
-process_training_figures_classification.ipynb
-process_training_figures_regression.ipynb
-process_performance_figures_classification.ipynb
-process_performance_figures_regression.ipynb
+- `process_feature_statistics.ipynb`
+- `process_training_figures_classification.ipynb`
+- `process_training_figures_regression.ipynb`
+- `process_performance_figures_classification.ipynb`
+- `process_performance_figures_regression.ipynb`
 
 
 After training the models, the final stage performs **SHAP analysis and post-processing of GBFS results**.
@@ -181,8 +161,6 @@ Defines the property to be predicted.
 `'bandgap'`
 `'is_stable'`
 `'is_metal'`
-
-
 
 ---
 
