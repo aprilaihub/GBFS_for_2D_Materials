@@ -2,10 +2,6 @@
 
 This repository implements a **Gradient-Boosted Feature Selection (GBFS)** driven machine learning pipeline for predicting key physical properties of **two-dimensional (2D) inorganic materials**. The workflow focuses on producing **accurate and fully interpretable models** through systematic feature selection followed by model interpretation using SHAP analysis.
 
-Two-dimensional (2D) inorganic crystals are a class of materials that are gaining significant attention for use in electronic and optoelectronic devices. Among many exciting applications, 2D materials offer a range of beneficial properties due to **charge carrier confinement, high carrier mobility, tunable band gaps, strong light–matter interactions, and atomically thin geometries** that enable excellent electrostatic control and mechanical flexibility.
-
-In parallel, **data-driven approaches to predicting inorganic material properties** have gained considerable attention as computationally lightweight surrogate models for expensive first-principles simulations. These models are particularly valuable for **high-throughput screening of candidate materials** when searching for specific structure–property relationships. However, many existing approaches focus primarily on **three-dimensional (3D) bulk crystalline materials**.
-
 In this work we develop **data-driven models for predicting properties of 2D layered, van der Waals, and ultra-thin film materials**, including:
 
 - **Thermodynamic stability**
@@ -34,9 +30,10 @@ The repository is organized as a **three-stage pipeline**:
 
 1. **Dataset construction**
 2. **Gradient-Boosted Feature Selection (GBFS) and model training**
-3. **SHAP interpretation and post-processing of GBFS results**
+3. **Compare to experimental values in pkl/expt_band_gap folder**
+4. **SHAP Analysis and Re-plotting for Publication**
 
-Each stage is implemented as a Jupyter notebook.
+Each stage is implemented in Jupyter notebooks. Step 1-3 use one notebook each. Step 4 uses a total of 5 Jupyter notebooks.
 
 ---
 
