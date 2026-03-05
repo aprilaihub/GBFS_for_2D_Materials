@@ -1,0 +1,178 @@
+﻿formula,name,structural_group,band_gap_dir,properties,dir_or_ind,elec_or_opt,bgp_method,fab_method,no_of_layers,pub_type,vdw,filename,year,doi,link
+AgCrP2S6,Silver chromium phosphorus sulfide,monoclinic,1.32,semiconductor,dir,opt,pl,mech,m,jour,TRUE,Park2024a,2024,10.1002/adma.202401534,https://doi.org/10.1002/adma.202401534
+As2S3,Arsenic sulfide,hexagonal,2.60,semiconductor,ind,opt,uvvis,mech,m,jour,TRUE,Siskins2019a,2019,10.1021/acsnano.9b06161,https://doi.org/10.1021/acsnano.9b06161
+As2Te3,Arsenic telluride,monoclinic,0.40,semiconductor,dir,elec,sts,mech,m,jour,TRUE,Khalil2021,2021,10.1063/5.0058291,https://doi.org/10.1063/5.0058291
+AsSbO3,Arsenic antimony oxide,monoclinic,4.40,semiconductor,ind,opt,uvvis,mech,m,jour,TRUE,Long2023,2023,10.1002/adfm.202306241,https://doi.org/10.1002/adfm.202306241
+AsSbS3,Arsenic antimony sulfide,monoclinic,1.74,semiconductor,dir,opt,pl,mech,f,jour,TRUE,Wang2020e,2020,10.1021/acs.jpca.9b11940,https://doi.org/10.1021/acs.jpca.9b11940
+Ba3Zr2S7,Barium zirconium sulfide,tetragonal,1.28,semiconductor,dir,opt,pl,flux,f,jour,TRUE,Niu2018a,2018,10.1021/acs.chemmater.8b01707,https://doi.org/10.1021/acs.chemmater.8b01707
+Bi2O2Se,Bismuth oxyselenide,tetragonal,0.80,semiconductor,ind,elec,arpes,cvd,m,jour,TRUE,Wu2017a,2017,10.1038/nnano.2017.43,https://doi.org/10.1038/nnano.2017.43
+Bi2O5Te,Bismuth oxytelluride,rhombohedral,2.52,semiconductor,ind,opt,uvvis,sol,f,jour,TRUE,Kumar2024b,2024,10.1039/D4CP00562G,https://doi.org/10.1039/D4CP00562G
+Bi2S3,Bismuth sulfide,orthorhombic,1.43,semiconductor,dir,opt,pl,mech,m,jour,TRUE,Linhart2021,2021,10.1039/D1TC03625D,https://doi.org/10.1039/D1TC03625D
+Bi2Se3,Bismuth selenide,rhombohedral,0.31,semiconductor,dir,opt,arpes,mech,f,jour,TRUE,Peng2012,2017,10.1038/NCHEM.1277,https://doi.org/10.1038/NCHEM.1277
+Bi2TeO6,Bismuth oxytelluride,orthorhombic,2.90,semiconductor,dir,opt,uvvis,cvd,f,jour,FALSE,Zou2023,2023,10.1002/adfm.202213807,https://doi.org/10.1002/adfm.202213807
+BiCuOTe,Bismuth copper oxytelluride,tetragonal,2.23,semiconductor,ind,opt,uvvis,sol,f,jour,TRUE,Kumar2024b,2024,10.1039/D4CP00562G,https://doi.org/10.1039/D4CP00562G
+BiOBr,Bismuth oxybromide,orthorhombic,3.69,semiconductor,ind,opt,uvvis,mech,m,jour,TRUE,Gong2020,2020,10.1002/adma.201908242,https://doi.org/10.1002/adma.201908242
+BiPbO2Cl,Bismuth lead oxychloride,tetragonal,2.05,semiconductor,dir,opt,pl,sol,f,jour,TRUE,Xu2018a,2018,10.1186/s11671-018-2706-z,https://doi.org/10.1186/s11671-018-2706-z
+BN,Boron nitride,hexagonal,6.10,insulator,dir,opt,pl,mbe,m,jour,TRUE,Elias2019,2019,10.1038/s41467-019-10610-5,https://doi.org/10.1038/s41467-019-10610-5
+BN,Boron nitride,hexagonal,6.12,insulator,dir,opt,pl,mbe,m,jour,TRUE,Wang2022f,2022,10.1002/adma.202201387,https://doi.org/10.1002/adma.202201387
+BN,Boron nitride,hexagonal,6.80,insulator,dir,elec,sts,mbe,m,jour,TRUE,PenaRoman2021,2021,10.1088/2053-1583/ac0d9c,https://doi.org/10.1088/2053-1583/ac0d9c
+C3N4,Carbon nitride,hexagonal,2.80,semiconductor,dir,opt,uvvis,sol,f,jour,TRUE,Sahoo2022,2022,10.1016/j.carbon.2022.02.021,https://doi.org/10.1016/j.carbon.2022.02.021
+Cd10S7Se3,Cadmium sulfide selenide,hexagonal,2.15,semiconductor,dir,opt,pl,cvd,f,jour,TRUE,Xia2025,2025,10.1016/j.apsusc.2024.161830,https://doi.org/10.1016/j.apsusc.2024.161830
+CdI2,Cadmium iodide,hexagonal,2.98,semiconductor,ind,opt,uvvis,cvd,m,conf,TRUE,Zhao2021a,2021,10.1088/1742-6596/1907/1/012052,https://doi.org/10.1088/1742-6596/1907/1/012052
+CdI2,Cadmium iodide,hexagonal,2.99,semiconductor,ind,opt,pl,cvd,m,conf,TRUE,Zhao2021a,2021,10.1088/1742-6596/1907/1/012052,https://doi.org/10.1088/1742-6596/1907/1/012052
+CdPS3,Cadmium phosphorus sulfide,monoclinic,3.50,semiconductor,dir,opt,uvvis,mech,m,jour,TRUE,Du2016,2015,10.1021/acsnano.5b05927,https://doi.org/10.1021/acsnano.5b05927
+CdS,Cadmium sulfide,hexagonal,2.42,semiconductor,dir,opt,pl,cvd,f,jour,TRUE,Xia2025,2025,10.1016/j.apsusc.2024.161830,https://doi.org/10.1016/j.apsusc.2024.161830
+CdSe,Cadmium selenide,hexagonal,1.74,semiconductor,dir,opt,pl,cvd,f,jour,TRUE,Xia2025,2025,10.1016/j.apsusc.2024.161830,https://doi.org/10.1016/j.apsusc.2024.161830
+CoPS3,Cobalt phosphorus sulfide,hexagonal,1.16,semiconductor,dir,opt,uvvis,mech,m,jour,TRUE,Jin2022,2022,10.1021/acs.jpclett.2c02992,https://doi.org/10.1021/acs.jpclett.2c02992
+Cr2Ge2Te6,Chromium germanium telluride,hexagonal,0.86,semiconductor,dir,elec,sts,mech,f,jour,TRUE,Hao2018,2018,10.1016/j.scib.2018.05.034,https://doi.org/10.1016/j.scib.2018.05.034
+Cr2S3,Chromium sulfide,rhombohedral,0.62,semiconductor,dir,opt,ftir,cvd,f,jour,TRUE,Xie2021b,2021,10.1002/aelm.202000962,https://doi.org/10.1002/aelm.202000962
+CrBr3,Chromium bromide,monoclinic,0.57,semiconductor,dir,elec,sts,mech,m,jour,TRUE,Baral2021a,2021,10.1039/D0CP05633B,https://doi.org/10.1039/D0CP05633B
+CrGeTe3,Chromium germanium telluride,hexagonal,0.38,semiconductor,ind,opt,ftir,mech,m,jour,TRUE,Suo2020,2022,10.7498/aps.71.20221586,https://doi.org/10.7498/aps.71.20221586
+CrI3,Chromium iodide,monoclinic,1.21,semiconductor,dir,opt,pl,mech,f,jour,TRUE,Wang2018f,2018,10.1038/s41467-018-04953-8,https://doi.org/10.1038/s41467-018-04953-8
+CrI3,Chromium iodide,monoclinic,1.23,semiconductor,dir,opt,pe,mech,f,jour,TRUE,Wang2018f,2018,10.1038/s41467-018-04953-8,https://doi.org/10.1038/s41467-018-04953-8
+CrSiTe3,Chromium silicon telluride,hexagonal,1.20,semiconductor,ind,opt,ftir,flux,f,jour,TRUE,Musfeldt2023a,2023,10.1038/s41699-023-00389-x,https://doi.org/10.1038/s41699-023-00389-x
+CsPbBr3,Caesium lead bromide,orthorhombic,2.32,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Zhang2024a,2024,10.1038/s41467-024-49364-0,https://doi.org/10.1038/s41467-024-49364-0
+CsPbI2Br,Caesium lead iodide bromide,orthorhombic,1.88,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Zhang2024a,2024,10.1038/s41467-024-49364-0,https://doi.org/10.1038/s41467-024-49364-0
+CsPbI2Br,Caesium lead iodide bromide,orthorhombic,1.91,semiconductor,dir,opt,uvvis,cvd,m,jour,TRUE,Zhang2024a,2024,10.1038/s41467-024-49364-0,https://doi.org/10.1038/s41467-024-49364-0
+CsPbI3,Caesium lead iodide,orthorhombic,1.73,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Zhang2024a,2024,10.1038/s41467-024-49364-0,https://doi.org/10.1038/s41467-024-49364-0
+Cu2MoS4,Copper molybdenum sulfide,tetragonal,1.71,semiconductor,ind,opt,pl,sol,f,jour,TRUE,Goswami2023a,2023,10.1063/5.0165985,https://doi.org/10.1063/5.0165985
+Cu2O8Te3,Copper oxytelluride,monoclinic,1.15,semiconductor,ind,opt,uvvis,sol,f,jour,TRUE,Kumar2024b,2024,10.1039/D4CP00562G,https://doi.org/10.1039/D4CP00562G
+Cu2WS4,Copper tungsten sulfide,tetragonal,2.15,semiconductor,dir,opt,uvvis,sol,f,jour,TRUE,Jia2014a,2014,10.1016/j.matlet.2013.11.110,https://doi.org/10.1016/j.matlet.2013.11.110
+Cu3TeO6,Copper tellurate,hexagonal,2.59,semiconductor,dir,opt,uvvis,sol,f,jour,TRUE,FernandezCatala2023b,2023,10.1021/acsanm.3c00630,https://doi.org/10.1021/acsanm.3c00630
+CuBr,Copper bromide,hexagonal,2.92,semiconductor,ind,opt,uvvis,cvd,f,jour,FALSE,Gong2019,2019,10.1002/adma.201903580,https://doi.org/10.1002/adma.201903580
+CuIn7Se11,Copper indium selenide,hexagonal,1.40,semiconductor,dir,opt,pl,cvt,m,jour,TRUE,Lei2014,2014,10.1002/adma.201403342,https://doi.org/10.1002/adma.201403342
+CuInP2S6,Copper indium phosphorus sulfide,monoclinic,2.40,semiconductor,dir,opt,uvvis,sol,f,jour,TRUE,Lin2020,2020,10.1016/j.nanoen.2020.104972,https://doi.org/10.1016/j.nanoen.2020.104972
+CuInS2,Copper indium sulfide,tetragonal,1.82,semiconductor,dir,opt,uvvis,np,f,jour,FALSE,Liu2020b,2020,10.1021/acsanm.9b02550,https://doi.org/10.1021/acsanm.9b02550
+CuInSe2,Copper indium selenide,tetragonal,1.10,semiconductor,dir,opt,uvvis,mech,f,jour,FALSE,Liu2018b,2018,10.1021/acsanm.8b01527,https://doi.org/10.1021/acsanm.8b01527
+CuS,Copper sulfide,orthorhombic,2.21,semiconductor,ind,opt,pl,sol,m,jour,TRUE,Ning2021,2021,10.1021/acsnano.0c07388,https://doi.org/10.1021/acsnano.0c07388
+CuSbS2,Copper antimony sulfide,orthorhombic,1.44,semiconductor,ind,opt,uvvis,sol,f,jour,FALSE,Moosakhani2017a,2017,10.1016/j.jallcom.2017.11.092,https://doi.org/10.1016/j.jallcom.2017.11.092
+CuSbS2,Copper antimony sulfide,orthorhombic,1.52,semiconductor,dir,opt,uvvis,sol,f,jour,FALSE,Moosakhani2017a,2017,10.1016/j.jallcom.2017.11.092,https://doi.org/10.1016/j.jallcom.2017.11.092
+FePS3,Iron phosphorus sulfide,monoclinic,1.23,semiconductor,ind,opt,uvvis,mech,m,jour,TRUE,Ramos2021,2021,10.1038/s41699-021-00199-z,https://doi.org/10.1038/s41699-021-00199-z
+FePS3,Iron phosphorus sulfide,monoclinic,1.50,semiconductor,dir,opt,uvvis,mech,m,jour,TRUE,Du2016,2015,10.1021/acsnano.5b05927,https://doi.org/10.1021/acsnano.5b05927
+FePSe3,Iron phosphorus selenide,triclinic       ,1.30,semiconductor,dir,opt,uvvis,mech,m,jour,TRUE,Du2016,2015,10.1021/acsnano.5b05927,https://doi.org/10.1021/acsnano.5b05927
+Ga2In4S9,Gallium indium sulfide,hexagonal,2.76,semiconductor,dir,opt,cl,cvd,b,jour,TRUE,Wang2018e,2018,10.1002/adma.201806306,https://doi.org/10.1002/adma.201806306
+Ga2O3,Gallium oxide,monoclinic,5.04,semiconductor,dir,opt,uvvis,mbe,m,jour,TRUE,Nallasani2024,2024,10.1038/s41598-024-55830-y,https://doi.org/10.1038/s41598-024-55830-y
+GaGeTe,Gallium germanium telluride,hexagonal,1.12,semiconductor,dir,opt,ftir,bridg,f,jour,TRUE,Kucek2013,2013,10.1016/j.jcrysgro.2013.05.036,https://doi.org/10.1016/j.jcrysgro.2013.05.036
+GaN,Gallium nitride,hexagonal,3.76,semiconductor,dir,opt,pl,cvd,f,jour,FALSE,Chen2018,2018,10.1021/jacs.8b08351,https://doi.org/10.1021/jacs.8b08351
+GaN,Gallium nitride,hexagonal,4.98,semiconductor,dir,opt,uvvis,mbe,m,jour,FALSE,AlBalushi2016a,2016,10.1038/nmat4742,https://doi.org/10.1038/nmat4742
+GaS,Gallium sulfide,hexagonal,3.20,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Massmayer2024,2024,10.1002/smll.202402155,https://doi.org/10.1002/smll.202402155
+GaSe,Gallium selenide,hexagonal,2.17,semiconductor,dir,opt,pl,mech,f,jour,TRUE,Arutyunyan2022,2022,10.1016/j.jlumin.2021.118546,https://doi.org/10.1016/j.jlumin.2021.118546
+GaSSe,Gallium sulfide selenide,hexagonal,3.35,semiconductor,ind,opt,pl,cvt,m,jour,TRUE,Jung2015,2015,10.1021/acsnano.5b04876,https://doi.org/10.1021/acsnano.5b04876
+GaTe,Gallium telluride,hexagonal,1.77,semiconductor,dir,opt,uvvis,mech,m,jour,TRUE,Singha2022,2022,10.1063/5.0073205,https://doi.org/10.1063/5.0073205
+GeAs,Germanium arsenide,monoclinic,2.10,semiconductor,dir,opt,uvvis,liq,m,jour,TRUE,Jung2018,2018,10.1039/c8ta02676a,https://doi.org/10.1039/c8ta02676a
+GeS,Germanium sulfide,orthorhombic,1.60,semiconductor,dir,opt,uvvis,sol,f,jour,TRUE,Ramasamy2016,2016,10.1039/C5TC03667D,https://doi.org/10.1039/C5TC03667D
+GeS2,Germanium sulfide,monoclinic,3.71,semiconductor,dir,opt,uvvis,mech,m,jour,TRUE,Yang2019b,2019,10.1002/adfm.201900411,https://doi.org/10.1002/adfm.201900411
+GeSe,Germanium selenide,orthorhombic,1.20,semiconductor,dir,opt,uvvis,sol,f,jour,TRUE,Ramasamy2016,2016,10.1039/C5TC03667D,https://doi.org/10.1039/C5TC03667D
+GeSe2,Germanium selenide,monoclinic,2.96,semiconductor,dir,opt,uvvis,mech,m,jour,TRUE,Yan2019a,2019,10.1002/adom.201900622,https://doi.org/10.1002/adom.201900622
+GeTe,Germanium telluride,rhombohedral,1.93,semiconductor,ind,opt,uvvis,liq,m,jour,TRUE,Zhang2018b,2018,10.1039/C8NR03091J,https://doi.org/10.1039/C8NR03091J
+HfO2,Hafnium oxide,orthorhombic,5.99,insulator,dir,opt,pe,ald,f,jour,FALSE,McDonnell2013a,2013,10.1021/nn404775u,https://doi.org/10.1021/nn404775u
+HfS2,Hafnium sulfide,hexagonal,2.58,semiconductor,ind,opt,pl,cvd,m,jour,TRUE,Wang2018d,2018,10.1021/acs.chemmater.8b01091,https://doi.org/10.1021/acs.chemmater.8b01091
+HfS2,Hafnium sulfide,hexagonal,2.64,semiconductor,ind,opt,uvvis,cvd,m,jour,TRUE,Wang2018d,2018,10.1021/acs.chemmater.8b01091,https://doi.org/10.1021/acs.chemmater.8b01091
+HfS2,Hafnium sulfide,hexagonal,2.85,semiconductor,ind,opt,pl,mech,m,jour,TRUE,Neal2021a,2021,10.1038/s41699-021-00226-z,https://doi.org/10.1038/s41699-021-00226-z
+HfS3,Hafnium sulfide,monoclinic,2.00,semiconductor,ind,opt,uvvis,mech,f,jour,TRUE,Lipatov2023,2023,10.1039/d3tc00773a,https://doi.org/10.1039/d3tc00773a
+HfS3,Hafnium sulfide,monoclinic,2.34,semiconductor,dir,opt,uvvis,mech,f,jour,TRUE,Lipatov2023,2023,10.1039/d3tc00773a,https://doi.org/10.1039/d3tc00773a
+HfSe2,Hafnium selenide,octahedral,1.30,semiconductor,ind,elec,arpes,mech,f,jour,TRUE,Mleczko2017a,2017,10.1126/sciadv.1700481,https://doi.org/10.1126/sciadv.1700481
+HfSe2,Hafnium selenide,octahedral,1.00,semiconductor,ind,elec,sts,mech,m,jour,TRUE,Yao2018,2018,10.1021/acs.jpcc.8b08713,https://doi.org/10.1021/acs.jpcc.8b08713
+In2O3,Indium oxide,rhombohedral,2.92,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Huang2021c,2021,10.1016/j.optmat.2021.111372,https://doi.org/10.1016/j.optmat.2021.111372
+In2S3,Indium sulfide,cubic,2.02,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Huang2017b,2017,10.1002/adfm.201702448,https://doi.org/10.1002/adfm.201702448
+In2Se3,Indium selenide,hexagonal,1.38,semiconductor,dir,opt,uvvis,mbe,f,jour,TRUE,Claro2020,2020,10.1002/adom.202001034,https://doi.org/10.1002/adom.202001034
+In2Se3,Indium selenide,monoclinic,1.43,semiconductor,dir,opt,uvvis,mbe,f,jour,TRUE,Nallasani2024,2024,10.1038/s41598-024-55830-y,https://doi.org/10.1038/s41598-024-55830-y
+InF3,Indium fluoride,rhombohedral,2.20,semiconductor,dir,opt,uvvis,mod,f,jour,FALSE,Sreepal2019,2019,10.1021/acs.nanolett.9b02700,https://doi.org/10.1021/acs.nanolett.9b02700
+InSe,Indium selenide,rhombohedral,1.42,semiconductor,dir,opt,pl,mech,f,jour,TRUE,Mudd2013,2013,10.1002/adma.201302616,https://doi.org/10.1002/adma.201302616
+InSe,Indium selenide,hexagonal,1.55,semiconductor,dir,opt,pl,mech,f,jour,TRUE,Song2018,2018,10.1021/acsami.7b17247,https://doi.org/10.1021/acsami.7b17247
+InSe,Indium selenide,rhombohedral,1.90,semiconductor,dir,opt,pl,mech,b,jour,TRUE,Bandurin2017,2017,10.1038/NNANO.2016.242,https://doi.org/10.1038/NNANO.2016.242
+InSe,Indium selenide,hexagonal,2.20,semiconductor,dir,opt,pl,pld,m,jour,TRUE,Yang2017,2017,10.1021/acsnano.7b01168,https://doi.org/10.1021/acsnano.7b01168
+InSeBr,Indium selenide bromide,monoclinic,2.12,semiconductor,dir,opt,pl,mech,m,jour,TRUE,Hu2020,2020,10.1063/1.5143119,https://doi.org/10.1063/1.5143119
+InSnO,Indium tin oxide,cubic,3.90,semiconductor,dir,opt,uvvis,cvd,b,jour,FALSE,Datta2020a,2020,10.1038/s41928-019-0353-8,https://doi.org/10.1038/s41928-019-0353-8
+InTe,Indium telluride,tetragonal,1.65,semiconductor,dir,opt,uvvis,mech,m,jour,TRUE,Yang2023b,2023,10.1016/j.matdes.2023.112218,https://doi.org/10.1016/j.matdes.2023.112218
+MgO2H2,Magnesium hydroxide,hexagonal,5.50,insulator,dir,elec,eels,mech,m,jour,TRUE,Suslu2016a,2016,10.1038/srep20525,https://doi.org/10.1038/srep20525
+Mn3Si2Te6,Manganese silicon telluride,trigonal,1.73,semiconductor,dir,opt,uvvis,bridg,f,jour,TRUE,Gu2024a,2024,10.1038/s41467-024-52350-1,https://doi.org/10.1038/s41467-024-52350-1
+MnO2,Manganese dioxide,hexagonal,1.64,semiconductor,dir,opt,uvvis,ult,m,jour,TRUE,Chahal2023,2023,10.1002/eng2.12787,https://doi.org/10.1002/eng2.12787
+MnPS3,Manganese phosphorus sulfide,monoclinic,2.39,semiconductor,dir,opt,uvvis,cvd,f,jour,TRUE,Shifa2018,2018,10.1002/adfm.201800548,https://doi.org/10.1002/adfm.201800548
+MnPS3,Manganese phosphorus sulfide,monoclinic,3.00,semiconductor,dir,opt,uvvis,mech,m,jour,TRUE,Du2016,2015,10.1021/acsnano.5b05927,https://doi.org/10.1021/acsnano.5b05927
+MnPSe3,Manganese phosphorus selenide,hexagonal,2.00,semiconductor,dir,opt,uvvis,cvd,f,jour,TRUE,Shifa2018,2018,10.1002/adfm.201800548,https://doi.org/10.1002/adfm.201800548
+MnPSe3,Manganese phosphorus selenide,triclinic       ,2.50,semiconductor,dir,opt,uvvis,mech,m,jour,TRUE,Du2016,2015,10.1021/acsnano.5b05927,https://doi.org/10.1021/acsnano.5b05927
+MnPSe3,Manganese phosphorus selenide,hexagonal,2.80,semiconductor,dir,opt,uvvis,mech,f,jour,TRUE,Liu2021c,2021,10.1007/s40843-020-1616-4,https://doi.org/10.1007/s40843-020-1616-4
+MoO3,Molybdenum oxide,orthorhombic,3.20,semiconductor,ind,opt,uvvis,cvd,m,jour,TRUE,Kim2018b,2018,10.1088/2053-1583/aaedc8,https://doi.org/10.1088/2053-1583/aaedc8
+MoS2,Molybdenum sulfide,hexagonal,1.89,semiconductor,dir,opt,pl,ald,m,jour,TRUE,Song2015c,2015,10.1038/ncomms8817,https://doi.org/10.1038/ncomms8817
+MoS2,Molybdenum sulfide,hexagonal,1.90,semiconductor,dir,opt,pl,mech,m,jour,TRUE,Tongay2014,2014,10.1038/ncomms4252,https://doi.org/10.1038/ncomms4252
+MoSe2,Molybdenum selenide,hexagonal,1.55,semiconductor,dir,opt,pl,mech,m,jour,TRUE,Sha2017,2017,10.1016/j.apsusc.2017.03.159,https://doi.org/10.1016/j.apsusc.2017.03.159
+MoSe2,Molybdenum selenide,hexagonal,1.60,semiconductor,dir,opt,pl,mech,m,jour,TRUE,Tongay2014,2014,10.1038/ncomms4252,https://doi.org/10.1038/ncomms4252
+MoSi2N4,Molybdenum silicon nitride,hexagonal,1.94,semiconductor,ind,opt,uvvis,cvd,m,jour,TRUE,Hong2020a,2020,10.1126/science.abb7023,https://doi.org/10.1126/science.abb7023
+MoSSe,Molybdenum sulfide selenide,hexagonal,1.67,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Nugera2022,2022,10.1002/smll.202106600,https://doi.org/10.1002/smll.202106600
+MoSSe,Molybdenum sulfide selenide,hexagonal,1.68,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Lu2017a,2017,10.1038/nnano.2017.100,https://doi.org/10.1038/nnano.2017.100
+MoTe2,Molybdenum telluride,hexagonal,1.10,semiconductor,dir,opt,pl,mech,m,jour,TRUE,Ruppert2014,2014,10.1021/nl502557g,https://doi.org/10.1021/nl502557g
+MoVSe2,Molybdenum vanadium selenide,orthorhombic,1.10,semiconductor,dir,elec,sts,mbe,m,jour,TRUE,Zhang2020b,2020,10.1021/acsnano.0c02124,https://doi.org/10.1021/acsnano.0c02124
+MoWSe2,Molybdenum tungsten selenide,hexagonal,1.92,semiconductor,dir,opt,pl,ald,m,jour,TRUE,Song2015c,2015,10.1038/ncomms8817,https://doi.org/10.1038/ncomms8817
+MoWTe2,Molybdenum tungsten telluride,hexagonal,1.10,semiconductor,dir,opt,pl,mech,m,jour,TRUE,Aslan2018,2018,10.1021/acs.nanolett.8b00049,https://doi.org/10.1021/acs.nanolett.8b00049
+Nb2SiTe4,Niobium silicon telluride,monoclinic,0.39,semiconductor,dir,elec,sts,mech,f,jour,TRUE,Zhao2019c,2019,10.1021/acsnano.9b05080,https://doi.org/10.1021/acsnano.9b05080
+NbOCl2,Niobium oxychloride,orthorhombic,1.62,semiconductor,ind,elec,eels,mech,b,jour,TRUE,Guo2023,2023,10.1038/s41586-022-05393-7,https://doi.org/10.1038/s41586-022-05393-7
+NbS3,Niobium sulfide,monoclinic,0.35,semiconductor,ind,opt,pl,mech,f,jour,TRUE,Wang2020d,2020,10.1002/adma.202005037,https://doi.org/10.1002/adma.202005037
+NbS3,Niobium sulfide,monoclinic,0.36,semiconductor,ind,opt,ftir,mech,f,jour,TRUE,Wang2020d,2020,10.1002/adma.202005037,https://doi.org/10.1002/adma.202005037
+Ni3TeO6,Nickel tellurate,hexagonal,2.17,semiconductor,dir,opt,uvvis,sol,m,jour,TRUE,FernandezCatala2023a,2023,10.1038/s41699-023-00412-1,https://doi.org/10.1038/s41699-023-00412-1
+NiPS3,Nickel phosphorus sulfide,monoclinic,1.60,semiconductor,dir,opt,uvvis,mech,m,jour,TRUE,Du2016,2015,10.1021/acsnano.5b05927,https://doi.org/10.1021/acsnano.5b05927
+Pb3Sn4FeSb2S14,Cylindrite,octahedral,0.85,semiconductor,dir,opt,pe,mech,f,jour,TRUE,Niu2019a,2019,10.1088/2053-1583/ab1a4c,https://doi.org/10.1088/2053-1583/ab1a4c
+Pb6AgCuAs4S13,Lengenbachite,hexagonal,1.96,semiconductor,dir,opt,uvvis,mech,f,jour,TRUE,Dasgupta2021,2021,10.1038/s41699-021-00271-8,https://doi.org/10.1038/s41699-021-00271-8
+PbBi2Se4,Lead bismuth selenide,trigonal,0.60,semiconductor,dir,opt,uvvis,sol,f,jour,TRUE,Chatterjee2014,2014,10.1039/C4CP01885K,https://doi.org/10.1039/C4CP01885K
+PbI2,Lead iodide,hexagonal,2.45,semiconductor,dir,opt,uvvis,sol,f,jour,TRUE,Shkir2019,2019,10.1007/s13204-019-00983-w,https://doi.org/10.1007/s13204-019-00983-w
+PbSnS2,Lead tin sulfide,orthorhombic,1.13,semiconductor,dir,opt,uvvis,liq,f,jour,TRUE,Fan2024,2024,10.1016/j.jlumin.2024.120470,https://doi.org/10.1016/j.jlumin.2024.120470
+PdSe2,Palladium selenide,orthorhombic,1.15,semiconductor,dir,elec,sts,cvd,b,jour,TRUE,Xie2020b,2020,10.1002/smll.202000754,https://doi.org/10.1002/smll.202000754
+PdTe2,Palladium telluride,hexagonal,0.14,semimetal,dir,elec,sts,mbe,m,jour,TRUE,Liu2018a,2018,10.1103/PhysRevMaterials.2.094001,https://doi.org/10.1103/PhysRevMaterials.2.094001
+PtS2,Platinum sulfide,hexagonal,1.60,semiconductor,ind,opt,uvvis,mech,m,jour,TRUE,Zhao2016,2016,10.1002/adma.201504572,https://doi.org/10.1002/adma.201504572
+PtSe2,Platinum selenide,hexagonal,1.79,semiconductor,ind,elec,sts,mbe,m,jour,TRUE,Li2021a,2021,10.1021/acsnano.1c02971,https://doi.org/10.1021/acsnano.1c02971
+PtTe2,Platinum telluride,hexagonal,0.51,semiconductor,ind,elec,sts,mbe,m,jour,TRUE,Li2021a,2021,10.1021/acsnano.1c02971,https://doi.org/10.1021/acsnano.1c02971
+ReS2,Rhenium sulfide,monoclinic,1.50,semiconductor,dir,opt,pl,mech,f,jour,TRUE,Thakar2018,2018,10.1021/acsami.8b11248,https://doi.org/10.1021/acsami.8b11248
+ReS2,Rhenium sulfide,monoclinic,1.55,semiconductor,dir,opt,pl,mech,m,jour,TRUE,Tongay2014,2014,10.1038/ncomms4252,https://doi.org/10.1038/ncomms4252
+ReS2,Rhenium sulfide,hexagonal,1.62,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Cui2017,2017,10.1002/adma.201705015,https://doi.org/10.1002/adma.201705015
+ReSe2,Rhenium selenide,hexagonal,1.32,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Cui2017,2017,10.1002/adma.201705015,https://doi.org/10.1002/adma.201705015
+ReSSe,Rhenium sulfide selenide,hexagonal,1.41,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Cui2017,2017,10.1002/adma.201705015,https://doi.org/10.1002/adma.201705015
+RuCl3,Ruthenium chloride,monoclinic,1.90,semiconductor,dir,opt,pe,cvt,f,jour,TRUE,Sinn2016a,2016,10.1038/srep39544,https://doi.org/10.1038/srep39544
+Sb2O3,Antimony oxide,cubic,4.40,semiconductor,dir,elec,eels,mech,f,jour,TRUE,Messalea2021,2021,10.1021/acsnano.1c04631,https://doi.org/10.1021/acsnano.1c04631
+Sb2O3,Antimony oxide,cubic,4.60,semiconductor,dir,opt,uvvis,mech,f,jour,TRUE,Messalea2021,2021,10.1021/acsnano.1c04631,https://doi.org/10.1021/acsnano.1c04631
+Sb2S3,Antimony sulfide,orthorhombic,1.61,semiconductor,dir,opt,uvvis,sol,f,jour,TRUE,Liu2023b,2023,10.1039/D3TA00954H,https://doi.org/10.1039/D3TA00954H
+Sb2Te3,Antimony telluride,hexagonal,0.30,semimetal,dir,opt,uvvis,mech,f,jour,TRUE,Ma2022,2022,10.1038/s43246-022-00292-w,https://doi.org/10.1038/s43246-022-00292-w
+SiC,Silicon carbide,hexagonal,2.50,semiconductor,dir,elec,arpes,mod,m,jour,FALSE,Polley2023,2023,10.1103/PhysRevLett.130.076203,https://doi.org/10.1103/PhysRevLett.130.076203
+SnP2S6,Tin phosphorus sulfide,rhombohedral,1.82,semiconductor,dir,opt,pl,mech,f,jour,TRUE,Zhang2022c,2022,10.1002/adfm.202205757,https://doi.org/10.1002/adfm.202205757
+SnP2Se6,Tin phosphorus selenide,rhombohedral,1.93,semiconductor,dir,opt,uvvis,mech,b,jour,TRUE,Zhu2023,2023,10.1038/s41467-023-38131-2,https://doi.org/10.1038/s41467-023-38131-2
+SnPSe3,Tin phosphorus selenide,monoclinic,1.84,semiconductor,ind,opt,uvvis,cvt,f,jour,TRUE,Qi2024a,2024,10.1039/d4tc01532k,https://doi.org/10.1039/d4tc01532k
+SnS,Tin(II) sulfide,orthorhombic,2.10,semiconductor,dir,opt,uvvis,pvt,f,jour,TRUE,Kumar2024c,2024,10.1002/adma.202411420,https://doi.org/10.1002/adma.202411420
+SnS2,Tin(IV) sulfide     ,hexagonal,2.23,semiconductor,dir,opt,uvvis,sol,m,jour,TRUE,Sun2012,2012,10.1002/anie.201204675,https://doi.org/10.1002/anie.201204675
+SnS2,Tin(IV) sulfide,hexagonal,2.27,semiconductor,ind,opt,uvvis,cvt,m,jour,TRUE,Wang2017b,2017,10.1039/c6tc03751h,https://doi.org/10.1039/c6tc03751h
+SnS2,Tin(IV) sulfide     ,hexagonal,2.34,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Shao2019,2019,10.1021/acsnano.9b03648,https://doi.org/10.1021/acsnano.9b03648
+SnS2,Tin(IV) sulfide     ,hexagonal,2.60,semiconductor,dir,opt,pe,cvd,m,jour,TRUE,Ye2017a,2017,10.1007/s12274-017-1436-3,https://doi.org/10.1007/s12274-017-1436-3
+SnSe,Tin(II) selenide,orthorhombic,1.35,semiconductor,ind,opt,uvvis,liq,f,jour,TRUE,Huang2017c,2017,10.1021/acs.jpcc.7b06096,https://doi.org/10.1021/acs.jpcc.7b06096
+SnSe2,Tin(IV) selenide,hexagonal,1.37,semiconductor,ind,opt,uvvis,cvt,m,jour,TRUE,Wang2017b,2017,10.1039/c6tc03751h,https://doi.org/10.1039/c6tc03751h
+SnSeS,Tin(IV) selenide sulfide,hexagonal,1.57,semiconductor,ind,opt,uvvis,cvt,m,jour,TRUE,Wang2017b,2017,10.1039/c6tc03751h,https://doi.org/10.1039/c6tc03751h
+SnTe,Tin(II) telluride,cubic,0.19,semimetal,ind,elec,fpp,ult,f,jour,TRUE,Kannaujiya2020,2020,10.1140/epjp/s13360-019-00022-1,https://doi.org/10.1140/epjp/s13360-019-00022-1
+Sr2Nb3O10,Strontium niobate,cubic,3.75,semiconductor,ind,opt,uvvis,liq,m,jour,TRUE,Zhang2022d,2022,10.1016/j.jallcom.2022.164594,https://doi.org/10.1016/j.jallcom.2022.164594
+Sr2Nb3O10,Strontium niobate,cubic,3.90,semiconductor,ind,opt,uvvis,liq,m,jour,TRUE,Li2020b,2019,10.1002/adma.201905443,https://doi.org/10.1002/adma.201905443
+Sr7Pb5Sb12O10S20,Strontium lead antimony oxysulfide,monoclinic,1.34,semiconductor,ind,opt,uvvis,melt,f,jour,TRUE,Wang2020f,2020,10.1039/d0tc02396e,https://doi.org/10.1039/d0tc02396e
+SrTiO3,Strontium titanate,cubic,2.75,semiconductor,dir,opt,pl,pld,f,jour,TRUE,Zhang2021d,2021,10.1002/adom.202100025,https://doi.org/10.1002/adom.202100025
+Ta2NiS5,Tantalum nickel sulfide,monoclinic,0.33,semiconductor,dir,opt,ftir,mech,f,jour,TRUE,Zhang2021c,2021,10.1016/j.matdes.2021.109894,https://doi.org/10.1016/j.matdes.2021.109894
+Ta2NiS5,Tantalum nickel sulfide,orthorhombic,0.20,semimetal,dir,opt,prirs,mech,f,jour,TRUE,Li2017b,2017,10.1021/acsnano.7b04860,https://doi.org/10.1021/acsnano.7b04860
+Ta2NiSe5,Tantalum nickel selenide,monoclinic,0.36,semiconductor,dir,elec,sts,mech,m,jour,TRUE,Li2023b,2023,10.1016/j.matdes.2023.111799,https://doi.org/10.1016/j.matdes.2023.111799
+Ta2NiSe5,Tantalum nickel selenide,monoclinic,0.25,semimetal,dir,opt,ftir,mech,f,jour,TRUE,Guo2023b,2023,10.1088/2053-1583/acb1c3,https://doi.org/10.1088/2053-1583/acb1c3
+TaSe2,Tantalum selenide,trigonal,1.15,semiconductor,dir,opt,pl,mech,f,jour,TRUE,Wang2023c,2024,10.1016/j.jcis.2023.11.172,https://doi.org/10.1016/j.jcis.2023.11.172
+TiS3,Titanium sulfide,monoclinic,0.96,semiconductor,dir,opt,pe,mech,m,jour,TRUE,Lian2020,2020,10.1063/5.0019828,https://doi.org/10.1063/5.0019828
+TlGaS2,Thallium gallium sulfide,monoclinic,2.57,semiconductor,dir,opt,uvvis,mech,f,jour,TRUE,Delice2022a,2022,10.1016/j.jlumin.2021.118714,https://doi.org/10.1016/j.jlumin.2021.118714
+TlGaSe2,Thallium gallium selenide,monoclinic,2.04,semiconductor,dir,opt,pl,mech,f,jour,TRUE,Grivickas2014a,2014,10.1002/pssr.201409148,https://doi.org/10.1002/pssr.201409148
+TlInS2,Thallium indium sulfide,monoclinic,2.40,semiconductor,dir,opt,pl,mech,f,jour,TRUE,Grivickas2014a,2014,10.1002/pssr.201409148,https://doi.org/10.1002/pssr.201409148
+TlInS2,Thallium indium sulfide,monoclinic,2.42,semiconductor,dir,opt,pl,bridg,f,jour,TRUE,Grivckas2019,2019,10.1039/C8CP06209A,https://doi.org/10.1039/C8CP06209A
+TlSe,Thallium selenide,tetragonal,0.67,semiconductor,dir,opt,ftir,bridg,f,jour,TRUE,Dutta2019,2019,10.1021/jacs.9b10551,https://doi.org/10.1021/jacs.9b10551
+V2O5,Vandium oxide,orthorhombic,2.40,semiconductor,ind,opt,uvvis,sol,f,jour,TRUE,Yalagala2019,2019,10.1021/acsanm.8b02233,https://doi.org/10.1021/acsanm.8b02233
+WS2,Tungsten sulfide,hexagonal,1.39,semiconductor,dir,opt,pl,mech,f,jour,TRUE,Wang2023c,2024,10.1016/j.jcis.2023.11.172,https://doi.org/10.1016/j.jcis.2023.11.172
+WS2,Tungsten sulfide,hexagonal,1.90,semiconductor,dir,opt,uvvis,cvd,m,jour,TRUE,Lan2015a,2015,10.1039/C5NR01205H,https://doi.org/10.1039/C5NR01205H
+WS2,Tungsten sulfide,hexagonal,1.97,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Park2017,2017,10.1038/s41598-017-16251-2,https://doi.org/10.1038/s41598-017-16251-2
+WS2,Tungsten sulfide,hexagonal,2.00,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Huang2016b,2016,10.1088/0957-4484/27/13/13LT01,https://doi.org/10.1088/0957-4484/27/13/13LT01
+WSe2,Tungsten selenide,hexagonal,1.60,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Huang2016b,2016,10.1088/0957-4484/27/13/13LT01,https://doi.org/10.1088/0957-4484/27/13/13LT01
+WSe2,Tungsten selenide,hexagonal,1.68,semiconductor,dir,opt,pl,mech,m,jour,TRUE,Tongay2014,2014,10.1038/ncomms4252,https://doi.org/10.1038/ncomms4252
+WSSe,Tungsten sulfide selenide,hexagonal,1.75,semiconductor,dir,opt,pl,cvd,m,jour,TRUE,Nugera2022,2022,10.1002/smll.202106600,https://doi.org/10.1002/smll.202106600
+ZnIn2S4,Zinc indium sulfide,hexagonal,1.93,semiconductor,dir,opt,pl,mech,f,jour,TRUE,Weng2020,2020,10.1002/pssr.202000085,https://doi.org/10.1002/pssr.202000085
+ZnIn2S4,Zinc indium sulfide,hexagonal,1.96,semiconductor,ind,opt,uvvis,mech,m,jour,TRUE,Weng2020,2020,10.1002/pssr.202000085,https://doi.org/10.1002/pssr.202000085
+ZnPS3,Zinc phosphorus sulfide,monoclinic,3.40,semiconductor,dir,opt,uvvis,mech,m,jour,TRUE,Du2016,2015,10.1021/acsnano.5b05927,https://doi.org/10.1021/acsnano.5b05927
+ZnPSe3,Zinc phosphorus selenide,monoclinic,0.40,semiconductor,ind,opt,pl,mech,m,jour,TRUE,Grzeszczyk2022a,2022,10.1073/pnas.2207074119,https://doi.org/10.1073/pnas.2207074119
+ZnTe,Zinc telluride,hexagonal,2.18,semiconductor,ind,opt,uvvis,pvd,f,jour,TRUE,You2022,2022,10.1002/aelm.202101146,https://doi.org/10.1002/aelm.202101146
+ZrGeTe4,Zirconium germanium telluride,orthorhombic,1.39,semiconductor,dir,opt,uvvis,mech,f,jour,TRUE,Bai2021,2021,10.1002/inf2.12258,https://doi.org/10.1002/inf2.12258
+ZrS3,Zirconium sulfide,monoclinic,1.85,semiconductor,dir,opt,pc,mech,m,jour,TRUE,Drozdowska2023a,2023,10.1016/j.mtcomm.2023.105379,https://doi.org/10.1016/j.mtcomm.2023.105379
+ZrSe2,Zirconium selenide,hexagonal,1.07,semiconductor,ind,elec,arpes,mech,f,jour,TRUE,Mleczko2017a,2017,10.1126/sciadv.1700481,https://doi.org/10.1126/sciadv.1700481
+ZrTe5,Zirconium telluride,cubic,0.24,semimetal,dir,elec,sts,mbe,m,jour,TRUE,Xu2024,2024,10.1038/s41467-024-49197-x,https://doi.org/10.1038/s41467-024-49197-x

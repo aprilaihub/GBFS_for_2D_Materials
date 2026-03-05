@@ -1,0 +1,22 @@
+              precision    recall  f1-score   support
+
+    Unstable      0.924     0.927     0.926     10346
+      Stable      0.835     0.829     0.832      4590
+
+    accuracy                          0.897     14936
+   macro avg      0.880     0.878     0.879     14936
+weighted avg      0.897     0.897     0.897     14936
+
+Confusion Matrix:
+[[9595  751]
+ [ 786 3804]]
+Overall Accuracy: 89.7%Balanced Accuracy: 87.8%True Positive Rate (Recall): 0.829True Negative Rate (Specificity): 0.927Precision from predictions: 0.8351262349066959
+Weighted Precision from predictions: 0.8968853409170578
+Macro Precision from predictions: 0.8797054929470384
+Recall from predictions: 0.8287581699346406
+Weighted Recall from predictions: 0.897094268880557
+Macro Recall from predictions: 0.878084864978919
+F1 Score from predictions: 0.8319300164024057
+Weighted F1 Score from predictions: 0.896984231304606
+Macro F1 Score from predictions: 0.8788877659567873
+AUC from predictions: 0.878084864978919

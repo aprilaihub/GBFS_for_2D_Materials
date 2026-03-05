@@ -1,0 +1,35 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        adj_pred_target   R-squared:                       0.812
+Model:                            OLS   Adj. R-squared:                  0.812
+Method:                 Least Squares   F-statistic:                 2.079e+04
+Date:                Tue, 04 Mar 2025   Prob (F-statistic):               0.00
+Time:                        14:40:07   Log-Likelihood:                -3614.1
+No. Observations:                4817   AIC:                             7232.
+Df Residuals:                    4815   BIC:                             7245.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.3228      0.012     27.327      0.000       0.300       0.346
+act_target     0.8045      0.006    144.201      0.000       0.794       0.815
+==============================================================================
+Omnibus:                     1031.320   Durbin-Watson:                   2.033
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             5369.258
+Skew:                           0.928   Prob(JB):                         0.00
+Kurtosis:                       7.828   Cond. No.                         3.88
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+m = 0.8045459175147924
+c = 0.322789954416972
+
+MAE: 0.401794154542412
+MSE: 0.3294616468524206
+RMSE: 0.5739874971220371
+R-squared: 0.81191193986942
+Max error: 3.5450703347461827
+Explained Variance Score: 0.8119119579154029

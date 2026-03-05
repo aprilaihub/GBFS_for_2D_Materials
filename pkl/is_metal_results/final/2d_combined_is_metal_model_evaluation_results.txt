@@ -1,0 +1,27 @@
+1. The F-1 score of the model 0.8821282455193211
+2. The recall score of the model 0.8834359935725763
+3. Classification report 
+              precision    recall  f1-score   support
+
+   Non-Metal      0.846     0.780     0.812      4817
+       Metal      0.899     0.933     0.916     10119
+
+    accuracy                          0.883     14936
+   macro avg      0.873     0.856     0.864     14936
+weighted avg      0.882     0.883     0.882     14936
+ 
+4. Multilabel confusion matrix 
+[[[9437  682]
+  [1059 3758]]
+
+ [[3758 1059]
+  [ 682 9437]]] 
+5. Confusion matrix 
+[[3758 1059]
+ [ 682 9437]] 
+6. Accuracy score 
+0.8834359935725763 
+7. Balanced accuracy score 
+0.8563778291804791 
+8. AUC-ROC Score 
+0.856377829180479 

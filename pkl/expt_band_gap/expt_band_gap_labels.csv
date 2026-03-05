@@ -1,0 +1,17 @@
+﻿structural_group,properties,dir_or_ind,dir_or_ind_meaning,elec_or_opt,elec_or_opt_meaning,bgp_method,bgp_method meaning,fab_method,fab_method_meaning,no_of_layers,no_of_layers_meaning,pub_type,pub_type_meaning
+hexagonal,semiconductor,dir,direct_bandgap,opt,optical_bandgap,pl,photoluminescence_spectroscopy,mech,mechanical_exfoliation,m,monolayer,jour,journal_paper
+monoclinic,insulator,ind,indirect_bandgap,elec,electronic_bandgap,prirs,polarization-resolved_infrared_spectroscopy,cvd,chemical_vapour_deposition,b,bilayer,rev,review_paper
+orthorhombic,NaN,NaN,not_a_number,NaN,not_a_number,sts,scanning_tunneling_spectroscopy,ult,ultrasound_exfoliation,f,few-layer,conf,conference_paper
+tetragonal,,,,,,veels,valence_electron_energy_loss_spectroscopy,sol,solution_processed,NaN,not_a_number,NaN,not_a_number
+rhombohedral,,,,,,uvvis,UV-vis_absorption_spectroscopy,bridg,bridgman_crystal_growth_method,,,,
+trigonal,,,,,,eels,electron_energy_loss_spectroscopy,liq,liquid_phase,,,,
+cubic,,,,,,reels,reflected_electron_energy_loss_spectroscopy,mbe,molecular_beam_epitaxy,,,,
+triclinic,,,,,,ftir,fourier_transform_infrared_spectroscopy,cvt,chemical_vapour_transport,,,,
+NaN,,,,,,pe,photoemission_spectroscopy,pld,pulsed_laser_deposition,,,,
+,,,,,,arpes,angle_resolved_photoemission_spectroscopy,mod,in-situ_modification,,,,
+,,,,,,arpls,angle_resolved_photoluminescence_spectroscopy,pvd,physical_vapour_deposition,,,,
+,,,,,,fpp,four_point_probe,np,nanoparticle_assembly,,,,
+,,,,,,pc,photoconductivity,melt,solid_melting_synthesis,,,,
+,,,,,,NaN,not_a_number,pvt,proximity_vapour_transport,,,,
+,,,,,,,,flux,flux_technique,,,,
+,,,,,,,,NaN,not_a_number,,,,

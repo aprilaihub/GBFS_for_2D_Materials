@@ -1,0 +1,76 @@
+Initial features dataframe shape:
+(59743, 463)
+
+Engineered features dataframe shape:
+(59743, 928)
+
+RFE selected features dataframe shape:
+(59743, 72)
+
+
+
+Overall sparsity (Initial Features): 30.36%
+Feature sparsity summary (Initial Features):
+count    463.000000
+mean       0.303554
+std        0.393673
+min        0.000017
+25%        0.001774
+50%        0.052056
+75%        0.599384
+max        0.999950
+dtype: float64
+Row sparsity summary (Initial Features):
+count    59743.000000
+mean         0.303554
+std          0.043404
+min          0.224622
+25%          0.276458
+50%          0.295896
+75%          0.315335
+max          0.626350
+dtype: float64
+
+Overall sparsity (RFE Features): 12.69%
+Feature sparsity summary (RFE Features):
+count    72.000000
+mean      0.126941
+std       0.233200
+min       0.000017
+25%       0.000163
+50%       0.024974
+75%       0.091291
+max       0.966339
+dtype: float64
+Row sparsity summary (RFE Features):
+count    59743.000000
+mean         0.126941
+std          0.057130
+min          0.041667
+25%          0.083333
+50%          0.111111
+75%          0.138889
+max          0.486111
+dtype: float64
+
+Overall sparsity (Engineered Features): 52.22%
+Feature sparsity summary (Engineered Features):
+count    928.000000
+mean       0.522166
+std        0.362133
+min        0.000017
+25%        0.052056
+50%        0.668647
+75%        0.731734
+max        1.000000
+dtype: float64
+Row sparsity summary (Engineered Features):
+count    59743.000000
+mean         0.522166
+std          0.184084
+min          0.158405
+25%          0.320043
+50%          0.637931
+75%          0.653017
+max          0.807112
+dtype: float64
