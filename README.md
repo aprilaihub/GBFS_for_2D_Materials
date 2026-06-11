@@ -1,5 +1,9 @@
 # Interpretable Machine Learning for 2D Materials Property Prediction
 
+This repository implements the workflow from 
+
+Rowlinson, B. D. et al., "Band Gap Prediction of Two-Dimensional Materials Using a Gradient-Boosted Feature Selection Approach". _Journal of Chemical Information and Modeling_ 2026. DOI: [10.1021/acs.jcim.6c00675](https://doi.org/10.1021/acs.jcim.6c00675).
+
 This repository implements a **Gradient-Boosted Feature Selection (GBFS)** driven machine learning pipeline for predicting key physical properties of **two-dimensional (2D) inorganic materials**. The workflow focuses on producing **accurate and fully interpretable models** through systematic feature selection followed by model interpretation using SHAP analysis.
 
 In this work we develop **data-driven models for predicting properties of 2D layered, van der Waals, and ultra-thin film materials**, including:
@@ -315,4 +319,4 @@ process_performance_figures_regression.ipynb
 ---
 # Citation
 
-If you use this repository in your research, please cite the associated publication: 
+If you use this repository in your research, please cite the associated publication: [https://pubs.acs.org/doi/10.1021/acs.jcim.6c00675](https://pubs.acs.org/doi/10.1021/acs.jcim.6c00675)
